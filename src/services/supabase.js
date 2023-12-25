@@ -5,7 +5,6 @@ export const supabaseUrl = "https://jzwetzccxtnugbvxppdm.supabase.co";
 let supabaseKey;
 if (import.meta.env.NETLIFY === "true") {
   supabaseKey = process.env.VITE_SUPABASE_KEY;
-  console.log(supabaseKey);
 } else {
   supabaseKey = import.meta.env.VITE_SUPABASE_KEY;
 }
