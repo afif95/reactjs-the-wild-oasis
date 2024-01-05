@@ -3,6 +3,11 @@ https://reactjs-the-wild-oasis.netlify.app/login
 id: abk@example.com
 pass: pass1234
 
+# running locally
+Create a .env.local file in your root directory. There you can insert your supabase key and name it VITE_SUPABASE_KEY.
+
+command: npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
