@@ -3,6 +3,8 @@ https://reactjs-the-wild-oasis.netlify.app/login
 id: abk@example.com
 pass: pass1234
 
+all RLS policies are disabled in Supabase.
+
 # running locally
 Create a .env.local file in your root directory. There you can insert your supabase key and name it VITE_SUPABASE_KEY.
 
