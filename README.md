@@ -73,8 +73,6 @@ id: abk@example.com
 
 pass: pass1234
 
-all RLS policies are disabled in Supabase.
-
 <img src="project screenshots/1.png" alt="drawing"/>
 <img src="project screenshots/2.png" alt="drawing"/>
 <img src="project screenshots/3.png" alt="drawing"/>
